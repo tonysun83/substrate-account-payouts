@@ -1,4 +1,4 @@
-# KSM PENDING ACCOUNTS SUBMISSION
+# KSM PENDING PAYOUTS SUBMISSION
 https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931
 
 1) Clone https://github.com/paritytech/substrate-api-sidecar
