@@ -7,7 +7,7 @@ https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931
 3) yarn install
 4) NODE_ENV=kusama yarn start
 
-5) python3 get_payouts.py [-a <address>] [-d <depth>] [-e <era>]
+5) python3 get_payouts.py -a \<address\> -d \<depth\> -e \<era\>
   
 ## Kusama Node Launch - TOO LONG TO WAIT FOR FULL SYNC, so I connected to a public node for testing
 
